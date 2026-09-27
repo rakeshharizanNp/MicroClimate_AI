@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+joblib
+plotly
+requests
+folium
+streamlit-folium
+streamlit-js-eval
+streamlit-autorefresh
